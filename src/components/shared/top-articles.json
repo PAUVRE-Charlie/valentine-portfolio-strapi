@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_top_articles",
+  "info": {
+    "displayName": "topArticles",
+    "icon": "paperclip"
+  },
+  "options": {},
+  "attributes": {
+    "article1": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::article.article"
+    },
+    "article2": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::article.article"
+    },
+    "article3": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::article.article"
+    }
+  }
+}

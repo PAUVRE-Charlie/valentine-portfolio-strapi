@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_banners",
+  "info": {
+    "displayName": "Banner",
+    "icon": "flag",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

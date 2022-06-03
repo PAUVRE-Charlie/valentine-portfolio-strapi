@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_highlights",
+  "info": {
+    "displayName": "Highlight",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    },
+    "title": {
+      "type": "richtext"
+    }
+  }
+}

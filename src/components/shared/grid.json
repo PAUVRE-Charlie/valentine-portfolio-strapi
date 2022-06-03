@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_grids",
+  "info": {
+    "displayName": "Grid",
+    "icon": "border-all"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Elements": {
+      "displayName": "List element",
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.list-element"
+    }
+  }
+}

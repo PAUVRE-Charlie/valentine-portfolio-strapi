@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_list_elements",
+  "info": {
+    "displayName": "List element",
+    "icon": "glass-martini-alt"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}
